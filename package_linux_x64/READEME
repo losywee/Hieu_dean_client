@@ -1,0 +1,12 @@
+Usage:
+
+使用说明：
+
+终端运行：
+
+chmod +x INSTALL.sh
+然后：
+./INSTALL.sh
+
+最后系统开始菜单会生成快捷方式
+ 

@@ -1,0 +1,12 @@
+[Desktop Entry] 
+Encoding=UTF-8 
+Version=0.2
+Name[zh_cn]=涉外教务网查询
+GenericName=涉外教务处成绩查询软件
+Exec=/opt/jwc_checker_x64/jwc_checker &
+Terminal=false
+Icon[en_US]=/opt/jwc_checker_x64/res/icon.png
+Type=Application
+Categories=Application;Network;
+listed. 
+Comment[en_US]=Office of Academic Affairs checker for Hunan International Economics University.

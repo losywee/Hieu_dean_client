@@ -1,0 +1,13 @@
+1. make
+
+sudo make && sudo make install
+
+2. Install
+
+chmod +x Install.sh
+sudo ./Install.sh
+
+3. Run
+
+Terminal:   jwwclient
+

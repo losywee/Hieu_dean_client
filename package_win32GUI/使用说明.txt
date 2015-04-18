@@ -1,0 +1,6 @@
+1、运行下面的安装脚本进行安装
+2、确认系统安装了VC2010的运行库
+
+运行库下载地址：
+1、http://www.xiazaiba.com/html/1547.html
+2、http://xiazai.zol.com.cn/detail/43/426812.shtml

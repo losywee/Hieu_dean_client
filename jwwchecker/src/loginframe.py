@@ -95,12 +95,12 @@ class Login(Frame):
 
         if len(self.password)==0:
             self.pwd_entry.delete(0, END)
-            self.pwd_entry.insert(0,"草！空密码，你想干嘛！")
+            self.pwd_entry.insert(0,"请正确输入密码！")
             self.HAD_AUTH=0
             return
         elif len(self.checkcode)==0:
             self.code_entry.delete(0, END)
-            self.code_entry.insert(0,"草，验证码呢？")
+            self.code_entry.insert(0,"请根据下图所示的验证码进行输入")
             utils.HAD_AUTH=0
             return 
         elif len(self.username)==0:

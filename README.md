@@ -15,8 +15,8 @@ Documents
 
 #### <i class="icon-file"></i>Author and Contributor
 
-Author: Losywee
-Contributor:Losywee@mmda.info
+Author: notaweelos
+Contributor: notaweelos@mmda.info
 
 ### Source Installation
 Usage:
